@@ -8,7 +8,8 @@ Grâce à ce projet-logiciel nous avons pu :
 - dans un deuxième temps, réaliser une interface graphique permettant des interrogations simples sur les données.
 - dans un troisième temps, traiter le besoin fonctionnel initial à partir d’une base de données.
 - enfin, effectuer une analyse des deux solutions (fichiers/base de données) et mettre en évidence les avantages et/ou inconvénients de chacune d’entre elles.
-La branche data contient les fichiers csv utilisés comme données.
+
+
 Voici la liste des programmes et leurs fonctions :
 - definitions : definitions de fonctions
 - TK_main : Programme principal qui ouvre la premiere fenetre
